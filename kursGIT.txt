@@ -1,0 +1,8 @@
+git init - inicjalizacja repozytorium
+git status
+
+On branch master - na gałęzi master
+Untracked files - pliki nieśledzone
+
+git add nazwa.pliku - dodanie zmian w pliku do kolejki (oczekiwania)
+git add . - dodanie wszystkich zmian do kolejki (oczekiwania)
